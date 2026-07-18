@@ -11,4 +11,4 @@
 
 <details align="center">
 <summary>ㅤ ${\textsf{\color{#e0e0e0}About me}}$ </summary>
- - aaaooaa
+ - I dont talk to people much so you might feel awkward because Im so brief. My apologize
