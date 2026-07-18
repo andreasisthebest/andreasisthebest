@@ -7,3 +7,8 @@
 
 </div>
 
+</details>
+
+<details align="center">
+<summary>ㅤ ${\textsf{\color{#e0e0e0}About me}}$ </summary>
+>> aaaooaa
