@@ -11,4 +11,10 @@
 
 <details align="center">
 <summary>ㅤ ${\textsf{\color{#e0e0e0}About me}}$ </summary>
- - I dont talk to people much so you might feel awkward because Im so brief. My apologize
+ - My name is Sareq, Im 18 yo.
+ - я довольно скучный человек и не состою в огромном количестве фандомов или чет
+ - я могу быть грубым или односложным в начале общзения, прошу прощения
+ - люблю рисовать, но не являюсь профессионалом и не веду никаикх аккаунтов для эттго
+ 
+
+
