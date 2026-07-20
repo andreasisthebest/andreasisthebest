@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="file/photo_5390965782721810426_x.jpg" width="50%">
-  <p align="left">
-    its me
-  </p>
+  <img src="file/photo_5400062897116879996_x.jpg" width="50%">
+
 </p>
 
 
