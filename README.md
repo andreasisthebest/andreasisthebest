@@ -6,12 +6,11 @@
 
 <div align="center">
 
-</div>             7b7b7c
-
+</div>            
 </details>
 
 <details align="center">
-<summary>ㅤ ${\textsf{\color{#e0e0e0}About me}}$ </summary>
+<summary>ㅤ ${\textsf{\color{#441313}About me}}$ </summary>
  <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880032_x-removebg-preview.png"></a> - $${\text{\color{#7b7b7c}pathetic miserable fucking dumbshit}}$$ 
 
 
