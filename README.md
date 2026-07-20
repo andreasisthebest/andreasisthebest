@@ -12,6 +12,6 @@
 
 <details align="center">
 <summary>ㅤ ${\textsf{\color{#e0e0e0}About me}}$ </summary>
- <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880032_x.jpg"></a>
+ <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880032_x-removebg-preview.png"></a>
 
 
