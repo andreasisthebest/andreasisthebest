@@ -9,7 +9,7 @@
 </div>            
 </details>         
 <details align="center">
-<summary>ㅤ ${\textsf{\color{#b41717}About me}}$ </summary>
+<summary>ㅤ ${\textsf{\color{#ea0000}About me}}$ </summary>
   
  <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880032_x-removebg-preview.png"></a> - $${\text{\color{#8f88b9}pathetic miserable fucking dumbshit}}$$ 
 
