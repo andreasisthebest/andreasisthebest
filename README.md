@@ -17,17 +17,13 @@
 
 <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880205_x-removebg-preview.png"></a> - $${\text{\color{#7b7b7c}идфсл ищн}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880241_x-removebg-preview.png
-"></a> - $${\text{\color{#7b7b7c}идфсл ищн}}$$ 
+<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880241_x-removebg-preview.png"></a> - $${\text{\color{#7b7b7c}идфсл ищн}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880244_x-removebg-preview.png
-"></a> - $${\text{\color{#7b7b7c}идфсл ищн}}$$ 
+<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880244_x-removebg-preview.png"></a> - $${\text{\color{#7b7b7c}идфсл ищн}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880245_x-removebg-preview.png
-"></a> - $${\text{\color{#7b7b7c}идфсл ищн}}$$ 
+<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880245_x-removebg-preview.png"></a> - $${\text{\color{#7b7b7c}идфсл ищн}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880246_x-removebg-preview.png
-"></a> - $${\text{\color{#7b7b7c}идфсл ищн}}$$ 
+<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880246_x-removebg-preview.png"></a> - $${\text{\color{#7b7b7c}идфсл ищн}}$$ 
 
 
 
