@@ -11,9 +11,9 @@
 <details align="center">
 <summary>ㅤ ${\textsf{\color{#ea0000}About me}}$ </summary>
   
- <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880032_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-name is Sareq, Im 18 yo miserable male w no real interests}}$$ 
+ <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880032_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-и грусть и кусs}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880203_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-i love military. tried to study here, but sadly wasn't smart enough}}$$ 
+<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880203_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-пись сись}}$$ 
 
 <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880205_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-}}$$ 
 
