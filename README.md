@@ -23,7 +23,7 @@
 
 <a href="" target="_blank"><img width="30" src="file/photo_5400062897116880245_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 
-<a href="" target="_blank"><img width="35" src="file/photo_5400062897116880246_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
+<a href="" target="_blank"><img width="40" src="file/photo_5400062897116880246_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 
 
 <div align="left">
