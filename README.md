@@ -35,10 +35,15 @@ $${\color{#8a3535}\text{hello}}$$
   
 </div>            
 </details>         
-<details align="left">
+<details align="left">                                      
 <summary>ㅤ ${\textsf{\color{#ea0000}DNI}}$ </summary>
 
 
+
+<p align="center">
+  <img src="file/ photo_5393217582535487531_x.jpg" width="70%">
+
+</p>
 
 
 
