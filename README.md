@@ -1,6 +1,3 @@
-<p align="center">
-$${\color{#8a3535}\text{hello}}$$  
-</p>
 
 
 <p align="center">
