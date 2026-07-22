@@ -26,6 +26,13 @@
 <a href="" target="_blank"><img width="30" src="file/photo_5400062897116880246_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 
 
+<div align="center">
+  
+</div>            
+</details>         
+<details align="center">
+<summary>ㅤ ${\textsf{\color{#ea0000}About me}}$ </summary>
+
 
 
 
