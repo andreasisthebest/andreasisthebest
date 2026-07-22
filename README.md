@@ -35,7 +35,7 @@
 </details>         
 <details align="left">                                      
 <summary>ㅤ ${\textsf{\color{#af0000}DNI}}$ </summary>
-  <a href="" target="_blank"><img width="30" src="file/photo_5406853227526953255_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
+  <a href="" target="_blank"><img width="30" src="photo_5406853227526953249_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 </details>   
 
 
