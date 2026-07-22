@@ -34,7 +34,7 @@
 </div>            
 </details>         
 <details align="left">                                      
-<summary>ㅤ ${\textsf{\color{#717171}DNI}}$ </summary>
+<summary>ㅤ ${\textsf{\color{#af0000}DNI}}$ </summary>
 </details>   
 
 
