@@ -13,7 +13,7 @@
 <details align="left">
 <summary>ㅤ ${\textsf{\color{#acacac}About me}}$ </summary>
   
- <a href="center" target="_blank"><img width="30" src="file/photo_5400062897116880032_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-и грусть и кусs}}$$ 
+ <a href="" target="_blank"><img width="30" src="file/photo_5400062897116880032_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-и грусть и кусs}}$$ 
 
 <a href="" target="_blank"><img width="30" src="file/photo_5400062897116880203_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-пись сись}}$$ 
 
@@ -35,6 +35,7 @@
 </details>         
 <details align="left">                                      
 <summary>ㅤ ${\textsf{\color{#af0000}DNI}}$ </summary>
+  <a href="" target="_blank"><img width="40" src="file/photo_5400062897116880246_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 </details>   
 
 
