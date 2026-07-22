@@ -11,7 +11,7 @@
 </div>            
 </details>         
 <details align="left">
-<summary>ㅤ ${\textsf{\color{#717171}About me}}$ </summary>
+<summary>ㅤ ${\textsf{\color{#acacac}About me}}$ </summary>
   
  <a href="" target="_blank"><img width="30" src="file/photo_5400062897116880032_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-и грусть и кусs}}$$ 
 
