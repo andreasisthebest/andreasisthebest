@@ -4,16 +4,16 @@
 </p>
 
 
-<div align="center">
+<div align="left">
 
 </div>            
 </details>         
-<details align="center">
+<details align="left">
 <summary>ㅤ ${\textsf{\color{#ea0000}About me}}$ </summary>
   
- <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880032_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-и грусть и кусs}}$$ 
+ <a href="" target="_blank"><img width="30" src="file/photo_5400062897116880032_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-и грусть и кусs}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880203_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-пись сись}}$$ 
+<a href="" target="_blank"><img width="30" src="file/photo_5400062897116880203_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-пись сись}}$$ 
 
 <a href="" target="_blank"><img width="25" src="file/photo_5400062897116880205_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-}}$$ 
 
