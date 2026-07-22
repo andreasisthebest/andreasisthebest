@@ -15,15 +15,15 @@
 
 <a href="" target="_blank"><img width="30" src="file/photo_5400062897116880203_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-пись сись}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880205_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-}}$$ 
+<a href="" target="_blank"><img width="30" src="file/photo_5400062897116880205_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}-}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880241_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
+<a href="" target="_blank"><img width="30" src="file/photo_5400062897116880241_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880244_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
+<a href="" target="_blank"><img width="30" src="file/photo_5400062897116880244_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880245_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
+<a href="" target="_blank"><img width="30" src="file/photo_5400062897116880245_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 
-<a href="" target="_blank"><img width="25" src="file/photo_5400062897116880246_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
+<a href="" target="_blank"><img width="30" src="file/photo_5400062897116880246_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 
 
 
