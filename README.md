@@ -41,7 +41,7 @@ $${\color{#8a3535}\text{hello}}$$
 
 
 <p align="center">
-  <img src="file/ photo_5393217582535487531_x.jpg" width="70%">
+  <img src="file/photo_5393217582535487531_x.jpg" width="70%">
 
 </p>
 
