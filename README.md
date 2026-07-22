@@ -39,7 +39,7 @@
 
 
 <p align="center">
-  <img src="file/photo_5393217582535487524_x.jpg" width="70%">
+  <img src="file/photo_5393217582535487524_x.jpg" height="20" width="30%">
 
 </p>
 
