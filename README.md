@@ -1,5 +1,5 @@
 <p align="center">
-$${\color{#ffa06a}\text{hello}}$$  
+$${\color{#8a3535}\text{hello}}$$  
 </p>
 
 
