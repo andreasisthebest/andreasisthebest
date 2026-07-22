@@ -29,6 +29,7 @@ $${\color{#8a3535}\text{hello}}$$
 <a href="" target="_blank"><img width="30" src="file/photo_5400062897116880245_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
 
 <a href="" target="_blank"><img width="40" src="file/photo_5400062897116880246_x-removebg-preview.png"></a> - $${\text{\color{#bbbcca}идфсл ищн}}$$ 
+</details>   
 
 
 <div align="left">
@@ -37,7 +38,7 @@ $${\color{#8a3535}\text{hello}}$$
 </details>         
 <details align="left">                                      
 <summary>ㅤ ${\textsf{\color{#ea0000}DNI}}$ </summary>
-
+</details>   
 
 
 <p align="center">
